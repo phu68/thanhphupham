@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @thanhphupham
-- 👀 I’m interested in ...
+- 👋 Hi, I’m Phú Phạm
+- 👀 I’m interested in computer science, dìgital marketing & digital transformation
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Digital Marketing
 - 📫 How to reach me https://kysuphu.com
 
 <!---
