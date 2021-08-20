@@ -2,7 +2,7 @@
 - 👀 I’m interested in computer science, dìgital marketing & digital transformation
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Digital Marketing
-- 📫 How to reach me https://kysuphu.com
+- 📫 How to reach me https://phamphu.net
 
 <!---
 thanhphupham/thanhphupham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
